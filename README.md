@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-*Web Scraping Challenge*
+**Web Scraping Challenge**
 
 This new assignment consists of two technical products. You will submit the following deliverables:
 
@@ -8,7 +8,8 @@ Deliverable 1: Scrape titles and preview text from Mars news articles. Optionall
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-_Deliverable 1: Scrape Titles and Preview Text from Mars News_ 
+
+__Deliverable 1: Scrape Titles and Preview Text from Mars News__ 
 
 Deliverable 1 Instructions
 Create a new Jupyter notebook named mars_data_challenge_part_1.ipynb.
@@ -22,7 +23,7 @@ Store all the dictionaries in a Python list.
 Print the list in your notebook.
 
 
-Deliverable 2: Scrape and Analyze Mars Weather Data 
+__Deliverable 2: Scrape and Analyze Mars Weather Data__ 
 
 Deliverable 2 Instructions
 Create a Jupyter notebook named mars_data_challenge_part_2.ipynb. Import the relevant dependencies for web scraping, Pandas, and Matplotlib.
