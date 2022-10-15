@@ -1,13 +1,14 @@
 # web-scraping-challenge
 
 *Web Scraping Challenge*
+
 This new assignment consists of two technical products. You will submit the following deliverables:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles. Optionally export the data into a JSON file or a MongoDB database.
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-Deliverable 1: Scrape Titles and Preview Text from Mars News 
+_Deliverable 1: Scrape Titles and Preview Text from Mars News_ 
 
 Deliverable 1 Instructions
 Create a new Jupyter notebook named mars_data_challenge_part_1.ipynb.
